@@ -1,10 +1,6 @@
-.venv/
-__pycache__/
-*.py[cod]
-.pytest_cache/
+node_modules/
+dist/
+coverage/
+*.log
 .env
 .env.*
-*.log
-build/
-dist/
-*.egg-info/
